@@ -10,4 +10,8 @@
 
 @implementation TestObject
 
+-(void)test{
+    
+}
+
 @end
